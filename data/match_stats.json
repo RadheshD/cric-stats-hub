@@ -1,0 +1,52 @@
+{
+  "match_details": {
+    "match": "India vs Australia",
+    "tournament": "ICC Cricket World Cup 2023 Final",
+    "date": "19 November 2023",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "toss": "Australia won the toss and chose to field",
+    "result": "Australia won by 6 wickets"
+  },
+  "team_scores": {
+    "India": {
+      "runs": 240,
+      "wickets": 10,
+      "overs": 50.0,
+      "status": "all out"
+    },
+    "Australia": {
+      "runs": 241,
+      "wickets": 4,
+      "overs": 43.0,
+      "status": "not out"
+    }
+  },
+  "batting_stats": {
+    "India": [
+      { "player": "KL Rahul", "runs": 66, "status": "out" },
+      { "player": "Virat Kohli", "runs": 54, "status": "out" },
+      { "player": "Rohit Sharma", "runs": 47, "status": "out" },
+      { "player": "Suryakumar Yadav", "runs": 18, "status": "out" }
+    ],
+    "Australia": [
+      { "player": "Travis Head", "runs": 137, "status": "out" },
+      { "player": "Marnus Labuschagne", "runs": 58, "status": "not out" },
+      { "player": "Mitchell Marsh", "runs": 15, "status": "out" },
+      { "player": "David Warner", "runs": 7, "status": "out" }
+    ]
+  },
+  "bowling_stats": {
+    "Australia": [
+      { "bowler": "Mitchell Starc", "wickets": 3 },
+      { "bowler": "Pat Cummins", "wickets": 2 },
+      { "bowler": "Josh Hazlewood", "wickets": 2 },
+      { "bowler": "Glenn Maxwell", "wickets": 1 },
+      { "bowler": "Adam Zampa", "wickets": 1 }
+    ],
+    "India": [
+      { "bowler": "Jasprit Bumrah", "wickets": 2 },
+      { "bowler": "Mohammed Shami", "wickets": 1 },
+      { "bowler": "Mohammed Siraj", "wickets": 1 }
+    ]
+  }
+}
