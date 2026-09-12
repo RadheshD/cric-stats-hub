@@ -1,4 +1,4 @@
-# Cricket Match Stats
+# Cricket Match Stats manager
 
 A Python-based tool to parse, analyze, visualize, and manage cricket match statistics. This project demonstrates end-to-end data processing—from reading raw JSON files to generating professional PDF reports, Excel spreadsheets, and storing data in a MySQL database.
 
