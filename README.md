@@ -2,7 +2,7 @@
 
 A Python-based tool to parse, analyze, visualize, and manage cricket match statistics. This project demonstrates end-to-end data processing—from reading raw JSON files to generating professional PDF reports, Excel spreadsheets, and storing data in a MySQL database.
 
-## 🌟 Features
+##  Features
 
 - **Data Parsing & Formatting:** Reads match data from JSON and formats it into clean, readable console tables using Pandas.
 - **File Conversions:** Converts JSON data to `.xlsx` and `.csv` formats, and vice versa.
